@@ -1,0 +1,19 @@
+name: api
+description: An new Dart Frog application
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  core:
+    path: ../packages/core
+  maps_client:
+    path: ../packages/maps_client
+  dart_frog: ^1.0.0
+  equatable: ^2.0.3
+  
+dev_dependencies:
+  build_runner: ^2.4.6
+
