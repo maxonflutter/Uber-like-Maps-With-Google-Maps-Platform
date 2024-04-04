@@ -1,6 +1,8 @@
 ## Uber-like Maps with Flutter, Google Maps Platform and Dart Frog
 This project show you how to create a map experience similar to the ride booking feature of Uber. It is a full-stack Dart project as it combines a Flutter app with a custom backend server built with Dart Frog. 
 
+This project is developed by maxonflutter / [atomsbox](https://atomsbox.com) . Feel free to contribute, provide feedback, or suggest improvements via GitHub.
+
 ### Features:
 - **Flutter UI**: A map view with google_maps_flutter where the user can choose pick-up and drop-off. 
 - **Geolocator & Geocoding API**: Integration of the geolocator package to access the user location's coordinates and convert them into human-readable addresses. 
@@ -24,7 +26,3 @@ Watch a video tutorial demonstrating the features and usage of this application:
 6. Start the backend server on your localhost with `dart_frog dev`
 7. Run the app using `flutter run` and explore the maps.
 
-### Credits:
-This project is developed by maxonflutter / [atomsbox](https://atomsbox.com) . Feel free to contribute, provide feedback, or suggest improvements via GitHub.
-
-For any inquiries, reach out to me. 
