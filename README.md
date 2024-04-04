@@ -25,6 +25,6 @@ Watch a video tutorial demonstrating the features and usage of this application:
 7. Run the app using `flutter run` and explore the maps.
 
 ### Credits:
-This project is developed by maxonflutter. Feel free to contribute, provide feedback, or suggest improvements via GitHub.
+This project is developed by maxonflutter / [atomsbox](https://atomsbox.com) . Feel free to contribute, provide feedback, or suggest improvements via GitHub.
 
 For any inquiries, reach out to me. 
